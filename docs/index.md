@@ -3,4 +3,7 @@
 - Prof. Goble's Office Hours:
     * tbd.
 - Course Moodle
-<br/>
+- [Course Outline][outline]
+
+<!-- links for the course -->
+[outline]: outline.md

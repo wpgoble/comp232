@@ -1,0 +1,7 @@
+**The Content of this outline is subject to change, if it does you will be notified via email**
+
+Week | Class Information        | Homework      | Reading
+-----|--------------------------|---------------|-----------------
+  1  | Introduction             |               |                   
+
+<!-- Links for the course materials -->
