@@ -1,4 +1,4 @@
-Home[home] | Outline[outline] | Homework | Projects
+[Home][home]{: .btn} | [Outline][outline]{: .btn} | Homework | Projects
 
 **The Content of this outline is subject to change, if it does you will be notified via email**
 
