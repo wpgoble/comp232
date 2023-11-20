@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+
+title: "COMP 232"
+description: "Data Structures and Problem Solving"
+
+hide_first_title: true
+show_downloads: false
+buttons:
+  zip_hide: true
+  tar_hide: true
+  github_hide: true
