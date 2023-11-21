@@ -8,6 +8,7 @@
     * Office Hours: tbd.
 - [Course Moodle][moodle]
 - Textbook
+- [Java How To...][howto]
 
 <!-- links for the course -->
 [outline]: outline.md
@@ -15,3 +16,4 @@
 [homework]: homework.md
 [projects]: projects.md
 [moodle]: www.google.com
+[howto]: ./howto.md 
