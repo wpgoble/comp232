@@ -1,4 +1,4 @@
-[Home][home]{: .btn} | [Outline][outline]{: .btn} | [Homework][homework]{: .btn}
+[Home][home]{: .btn} [Outline][outline]{: .btn} [Homework][homework]{: .btn}
 
 ## COMP232 Course Information
 - Spring 2024
