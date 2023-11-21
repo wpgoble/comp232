@@ -7,13 +7,14 @@
     * Email: goblew@dickinson.edu
     * Office Hours: tbd.
 - [Course Moodle][moodle]
-- Textbook
+- [Textbook][textbook]
 - [Java How To...][howto]
 
 <!-- links for the course -->
-[outline]: outline.md
-[home]: index.md
-[homework]: homework.md
-[projects]: projects.md
+[outline]: ./outline.md
+[home]: ./index.md
+[homework]: ./homework.md
+[projects]: ./projects.md
 [moodle]: www.google.com
+[textbook]: www.google.com
 [howto]: ./howto.md 
