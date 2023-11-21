@@ -1,4 +1,4 @@
-[Home][home]{: .btn} | [Outline][outline]{: .btn} | [Homework][homework]{: .btn}
+[Home][home]{: .btn} [Outline][outline]{: .btn} [Homework][homework]{: .btn}
 
 ### If debugging is the process of removing software bugs, then programming must be the process of putting them in. -- Edsgar Dijkstra
 
