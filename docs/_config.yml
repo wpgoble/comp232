@@ -9,3 +9,6 @@ buttons:
   zip_hide: true
   tar_hide: true
   github_hide: true
+
+github:
+  is_project_page: false
